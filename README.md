@@ -1,4 +1,4 @@
-# Wellcome - Sign in- Sign up screen
+# Wellcome - Sign in - Sign up screen
 
 New registration screen
 
