@@ -2,6 +2,8 @@
 
 This is simple app with "Sign in/ Sign up" UI.
 
+## Application main characteristics:
 
-## Getting Started
+- A staggered animation;
+- Linear gradient animation;
 
